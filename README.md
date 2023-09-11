@@ -1,9 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working by ChromoEat as a Python Backend Developer and Network architect
+- 🔭 I’m currently working by Bäckerei Welsch as a Full Stack and DevOps Engenier
 - 🌱 I’m currently going to school in Germany.
-- 👯 I’m looking to collaborate on a OSINT Python Tool, to combine multiple other OSINT Tools into one big Database.
-- 📫 How to reach me: info@henningklein.de
-- ⚡ Fun fact: I'm only 17 years old.
+- 📫 How to reach me: hello@henningklein.de
 <!--
 **henning-kln/henning-kln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
