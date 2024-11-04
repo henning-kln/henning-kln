@@ -1,6 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m studing at the provadis school of international management and technology with the partner Deutsche Telekom AG.
 - 🔭 I’m currently working by Bäckerei Welsch as a Full Stack and DevOps Engenier
-- 🌱 I’m currently going to school in Germany.
 - 📫 How to reach me: hello@henningklein.de
 <!--
 **henning-kln/henning-kln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
